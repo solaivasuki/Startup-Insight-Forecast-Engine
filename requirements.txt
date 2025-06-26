@@ -1,0 +1,32 @@
+# Core
+numpy
+pandas
+sklearn
+
+# Streamlit dashboard
+streamlit
+
+# FAISS for semantic search (CPU version)
+faiss-cpu
+
+# Sentence embeddings
+sentence-transformers
+
+# TensorFlow for LSTM model
+tensorflow<2.16
+
+# Keras (optional if you want standalone, but can cause conflicts)
+keras>=2.12,<3.0
+
+# Scikit-learn for scaling and evaluation
+scikit-learn
+
+# Joblib for model saving/loading
+joblib
+
+# Altair for advanced charting (optional, recommended)
+altair
+
+seaborn
+
+matplotlib
